@@ -139,7 +139,7 @@ This helps improve retrieval quality and reduce irrelevant context.
 
 - Ahmed El-Mokaddem (https://github.com/elmokademahmed35-netizen)
 - Rahaf Ehab (https://github.com/RahafEA)
-- Rana Yasser (https://github.com/ranayaser)
+- Mahmoud khamis (https://github.com/Mahmoud70-7)
 - Badr Ahmed (https://github.com/BadrWaqas)
 - Hazem Mahmoud (https://github.com/Haz3m-m7hmoud)
 
